@@ -49,6 +49,3 @@ This Java-based Hotel Management System is designed to handle room bookings, gue
 
 Feel free to fork this repository and submit pull requests with any improvements or bug fixes. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
