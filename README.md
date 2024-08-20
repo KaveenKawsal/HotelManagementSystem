@@ -1,6 +1,6 @@
 # Hotel Management System
 
-This Java-based Hotel Management System is designed to handle room bookings, guest management, and billing for a hotel. It provides a simple command-line interface for managing hotel operations.
+This Java-based Hotel Management System is designed to handle room bookings, guest management, and billing for a hotel. It provides a simple command-line interface for managing hotel operations. The project was created as a learning exercise to deepen my understanding of Java programming.
 
 ## Features
 
